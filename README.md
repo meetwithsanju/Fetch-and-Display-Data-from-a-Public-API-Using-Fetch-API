@@ -62,12 +62,7 @@ cd fetch-user-data
 Simply open index.html in your browser.
 You can also use VS Code Live Server for better experience.
 
-📸 Screenshots
-💻 Desktop View
 
-📱 Mobile View
-
-🖥️ Live Demo
 
 You can view the project live here:
 🔗 Live Demo on GitHub Pages
